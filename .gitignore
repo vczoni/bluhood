@@ -1,0 +1,7 @@
+build
+dist
+bluhood*.egg-info*
+bluhood/.ipynb_checkpoints
+bluhood/__pycache__
+docs
+.vscode
